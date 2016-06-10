@@ -1,2 +1,2 @@
 # hello-world
-Random garble.
+Tutorial repository
